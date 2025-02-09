@@ -1,0 +1,702 @@
+[
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  },
+  {
+    "Cloudy": true,
+    "Sprinkler": true,
+    "Rain": true,
+    "Wet Grass": true,
+    "evidence": { "Sprinkler": true, "Wet Grass": true }
+  }
+]
